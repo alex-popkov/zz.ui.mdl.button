@@ -1,0 +1,19 @@
+{
+	"name": "zz.ui.mdl.button",
+	"version": "20160421.0.0",
+	"description": "module button for zz project",
+	"author": {
+		"name": "popkov alexander",
+		"email": "popkov.aleksander@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://www.example.com",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alex-popkov/zz.ui.mdl.button.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
