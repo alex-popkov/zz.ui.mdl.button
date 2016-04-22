@@ -1,6 +1,6 @@
 {
 	"name": "zz.ui.mdl.button",
-	"version": "20160421.0.0",
+	"version": "20160422.0.0",
 	"description": "module button for zz project",
 	"author": {
 		"name": "popkov alexander",
@@ -17,6 +17,8 @@
 	},
 	"dependencies": {
 
-	    "imazzine-developer-kit": ""
+	    "imazzine-developer-kit": "",
+		"zz.ui.mdl.ripple": "",
+		"zz.ui.mdl": ""
 	}
 }
